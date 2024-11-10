@@ -1,0 +1,7 @@
+Resposta à pergunta: Qual design é melhor? Herança ou composição?
+
+A composição é geralmente preferível em cenários como este, pois oferece maior flexibilidade e modularidade. Na composição, um objeto "Cylinder" contém um objeto "Circle", o que permite alterar o comportamento do 
+"Circle" sem afetar diretamente a classe "Cylinder". Além disso, a composição facilita a manutenção do código, pois mudanças na classe "Circle" podem ser feitas sem precisar modificar a classe "Cylinder". Por outro 
+lado, a herança cria uma dependência mais forte entre as classes, o que pode tornar a manutenção e a reutilização de código mais difíceis à medida que o sistema cresce.
+
+Portanto, a composição é geralmente o melhor design para situações onde a flexibilidade e a manutenção do código são mais importantes do que a reutilização direta de código por meio da herança.
