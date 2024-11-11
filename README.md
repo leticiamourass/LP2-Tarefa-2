@@ -11,4 +11,5 @@ Implementação das classes `Circle` e `Cylinder` usando herança. A classe `Cyl
 Neste exercício, a classe `Cylinder` foi criada usando composição em vez de herança. Ela contém um objeto `Circle` como um de seus atributos, destacando a relação "has-a" entre `Cylinder` e `Circle`. Essa abordagem oferece mais flexibilidade e modularidade no design.
 
 ### Exercício 6.6: Superclasse Abstrata Animal
-Implementação de uma hierarquia de classes com uma superclasse abstrata Animal, que define o método abstrato makeSound(). As subclasses Dog e Cat implementam esse método com comportamentos específicos, demonstrando o uso de polimorfismo em tempo de execução.
+Implementação de uma hierarquia de classes com uma superclasse abstrata `Animal`, que define o método abstrato `makeSound()`. As subclasses `Dog` e `Cat` implementam esse método com comportamentos específicos, demonstrando o uso de polimorfismo em tempo de execução.
+
