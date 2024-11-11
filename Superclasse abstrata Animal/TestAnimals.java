@@ -1,4 +1,4 @@
-// Classe Main para testar as classes Animal, Dog e Cat
+// Testar as classes Animal, Dog e Cat
 public class Main {
    public static void main(String[] args) {
       // Criando objetos Dog e Cat
